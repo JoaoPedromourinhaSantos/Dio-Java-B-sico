@@ -24,3 +24,25 @@ Quinta Aula de anatomia de classes:
 
 
     - Apedendendo a colocar os arquivos nas suas devidas pastas, cleamCode.
+
+Sexta Aula de anatomia de classes:
+
+
+    - Formas de escriva, boas práticas Java
+
+    - Variável deve ser clara, sem abreviação;
+
+    - Variável sempre no singular, exceto array ou coleção;
+
+    - Idioma único.
+
+Métodos
+
+    - Métodos devem ser nomeados como verbos.
+    - Métodos devem ter só uma finalidade
+
+    abriConexao();
+    somar(int n1, int n2){};
+    findById(int id)
+
+    calcularImprimir() // escrito de forma correta, mas tem 2 finalidades, calcular ou imprimir
