@@ -22,4 +22,5 @@ Quarta Aula de anatomia de classes:
 
 Quinta Aula de anatomia de classes:
 
-    - 
+
+    - Apedendendo a colocar os arquivos nas suas devidas pastas, cleamCode.
