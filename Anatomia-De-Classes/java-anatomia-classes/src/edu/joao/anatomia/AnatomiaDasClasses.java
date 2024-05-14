@@ -1,3 +1,4 @@
+package edu.joao.anatomia;
 public class AnatomiaDasClasses{
 
 public static void main(String[] args) {

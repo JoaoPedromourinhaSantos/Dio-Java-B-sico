@@ -1,3 +1,4 @@
+package edu.joao.anatomia;
 public class AnatomiaDasClasses3 {
     
     int idade =23;

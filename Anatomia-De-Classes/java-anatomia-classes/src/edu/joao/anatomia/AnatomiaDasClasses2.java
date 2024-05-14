@@ -1,3 +1,4 @@
+package edu.joao.anatomia;
 public class AnatomiaDasClasses2 {
 
     // para colocar uma variavel que o valor nunca se altere, basta colocar o "final antes da variavel" ou colocar o nome da variavle em MAIÚSCULO!
