@@ -1,0 +1,3 @@
+Operadores aula 2:
+
+    -
